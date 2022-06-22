@@ -1,0 +1,84 @@
+.adminPanel {
+    margin-left: 3%;
+    margin-right: 3%; 
+    margin-top: 2%;
+}
+
+.transfer_table {
+    /* margin-left: 8%;
+    margin-right: 8%; */
+    margin-top: 2%;
+    text-align: center;
+}
+
+.search-bar {
+    margin-top: 1%;
+    text-align:center;
+}
+.arrows {
+    text-align:center;
+    font-size: 115%;
+    height: 20px;
+}
+
+/*#setTransfer {
+    margin-top: 3%;
+    margin-left: 8%;
+}*/
+a {
+    color: black;
+}
+a:hover {
+    color: black;
+    Text-decoration: none; 
+}
+#logout {
+    margin-top: 0px;
+    margin-right: 7px;
+    color: blue;
+}
+.tab-pane {
+
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px 0px 5px 5px;
+    padding: 10px;
+}
+
+.nav-tabs {
+    margin-bottom: 0;
+}
+
+.addServiceLabel{
+    display:inline-block;
+    width:200px;
+    margin-right:0px;
+    margin-left:15px;
+    text-align:left;
+}
+
+#login {
+    margin-top: 5px;
+    margin-left: 7px;
+}
+
+
+/*  fieldset{
+      border:none;
+      width:500px;
+      margin:0px auto;
+  }*/
+
+.resViewP {
+    line-height: 2;
+}
+
+.divider {
+    border-right: 2px ridge #C8C8C8;
+}
+
+.transDet {
+    display:inline-block;
+    width:110px;
+}

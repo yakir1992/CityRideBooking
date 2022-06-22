@@ -1,0 +1,115 @@
+
+.indexPanel {
+    margin-left: 3%;
+    margin-right: 3%; 
+    margin-top: 2%;
+}
+
+.transfer_table {
+    /* margin-left: 4%;
+    margin-right: 4%; */
+    margin-top: 2%;
+    text-align: center;
+}
+
+.search-bar {
+    margin-top: 2%;
+    text-align:center;
+}
+
+.arrows {
+    text-align:center;
+    font-size: 115%;
+    height: 20px;
+}
+
+#quantity_select {
+    text-align: center;
+}
+
+.borderless td, .borderless th {
+    border: none !important;
+}
+
+#total_cost {
+    float: right;
+}
+
+#remark {
+    width: 400px;
+}
+
+#login {
+    margin-top: 5px;
+    margin-left: 7px;
+}
+#logout {
+    float: right;
+    margin-top: 0px;
+    margin-right: 7px;
+    color: blue;
+}
+
+.dearAgent {
+    font-size: 120%;
+    font-family: serif, Arial, Times;
+    line-height: 200%;
+    font-weight: bold;
+}
+
+.tab-content {
+
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px 0px 5px 5px;
+    padding: 10px;
+}
+
+.nav-tabs {
+    margin-bottom: 0;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: black;
+    Text-decoration: none; 
+}
+
+.resViewP {
+    line-height: 2;
+}
+
+.divider {
+    border-right: 2px ridge #C8C8C8;
+}
+
+.transDet {
+    display:inline-block;
+    width:110px;
+}
+
+#contactUsFormDiv {
+    margin: auto; 
+   /* float: left; */
+    margin-top: 4%;
+    width: 35%;
+   /* height: 500px; */ 
+  /* border: 3px solid #73AD21;*/
+   /* padding: 10px;*/
+}
+#contactInfo{
+  /*  float: right; */
+   /* border: 3px solid #73AD21; */
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 35%;
+    margin: auto; 
+    text-align: center;
+}
+
+
+
+
