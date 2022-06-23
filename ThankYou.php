@@ -2,7 +2,7 @@
 //include 'includes/header.php';
 include_once 'includes/global.php';
 
-// new - if it refered by the contact me so its a longer & different message
+// new - if it refered by the contact me so its a longer & different messages
 ?>
 
 <!DOCTYPE html>
