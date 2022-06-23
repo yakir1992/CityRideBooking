@@ -2,7 +2,7 @@
 include_once 'includes/global.php';
 include 'includes/header.php';
 
-// check if authorized user is loged in, if not redirects to log-in page
+// check if authorized user is loged in, if not redirects to log-in pages
 if (!isset($_SESSION['auth']) && !isset($_SESSION['sabre_guest'])) {
     redirect('logIn.php');
     die();
